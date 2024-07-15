@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-default {
+    background-color: #2B2766;
+    border-color: #2B2766;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.hero {
+    background-image: url('benner\ service.png'); /* Add your background image here */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.courses {
+    padding: 20px 0;
+}
+
+.course {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.course img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #2B2766;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
